@@ -5,7 +5,10 @@ body {
     color: #333;
     line-height: 1.6;
 }
-
+header img {
+    width: 280px;
+    max-width: 90%;
+}
 header {
     text-align: center;
     padding: 50px 20px;
