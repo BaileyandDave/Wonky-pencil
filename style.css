@@ -96,6 +96,25 @@ footer {
 .book-card:hover {
   transform: translateY(-8px);
 }
+.featured-card {
+    background: #f5f5f5;
+    padding: 30px;
+    border-radius: 15px;
+    max-width: 500px;
+    margin: 40px auto;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.featured-card h3 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.featured-card p {
+    font-size: 18px;
+    line-height: 1.6;
+}
 .book-card h4 {
   font-size: 18px;
   margin: 15px 0 10px;
