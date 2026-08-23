@@ -70,3 +70,55 @@ footer {
 
 
 
+.book-card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  width: 220px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  transition: transform 0.3s ease;
+}
+
+.book-card:hover {
+  transform: translateY(-8px);
+}
+.book-card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  width: 220px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  transition: transform 0.3s ease;
+}
+
+.book-card:hover {
+  transform: translateY(-8px);
+}
+.book-card h4 {
+  font-size: 18px;
+  margin: 15px 0 10px;
+  color: #333;
+}
+
+.book-card p {
+  font-size: 14px;
+  line-height: 1.5;
+  color: #555;
+}
+
+.button {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 18px;
+  background: #d9a441;
+  color: white;
+  text-decoration: none;
+  border-radius: 20px;
+  font-weight: bold;
+}
+
+.button:hover {
+  background: #b8872f;
+}
