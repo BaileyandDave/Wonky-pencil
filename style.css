@@ -49,3 +49,24 @@ footer {
     background: #333;
     color: white;
 }
+.books {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+  justify-content: center;
+  margin-top: 25px;
+}
+.books img {
+    width: 180px;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    transition: transform 0.3s ease;
+}
+
+.books img:hover {
+    transform: scale(1.05);
+}
+
+
+
