@@ -142,7 +142,21 @@ footer {
   background: #b8872f;
 }
 /* Mobile improvements */
+.site-header {
+    text-align: center;
+    padding: 40px 20px;
+}
 
+.site-header img {
+    max-width: 280px;
+    height: auto;
+}
+
+.site-header p {
+    font-size: 20px;
+    margin-top: 20px;
+    color: #555;
+}
 @media (max-width: 600px) {
 
   section {
