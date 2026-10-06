@@ -1,40 +1,14 @@
-WONKY PENCIL MULTI-PAGE WEBSITE — FINAL IMAGE-SAFE BUILD
+WONKY PENCIL WEBSITE — FLAT UPLOAD VERSION
 
-This package uses the proper uploaded Wonky Pencil Books logo and stores all core site images locally.
+This version has NO assets folder.
 
-Upload ALL files and the complete assets folder to the root of the existing Wonky Pencil GitHub Pages repository.
-
-Pages:
-- index.html
-- books.html
-- bailey-and-dave.html
-- alderwick.html
-- hgv.html
-- industry.html
-- about.html
-- contact.html
-
-Supporting files:
-- styles.css
-- script.js
-- robots.txt
-- sitemap.xml
-- 404.html
-- assets/
+Upload ALL files in this folder directly into the ROOT of the existing Wonky Pencil GitHub repository.
 
 IMPORTANT:
-- Do not upload index.html on its own.
-- Upload the entire assets folder as well.
-- Keep the folder name exactly: assets
-- Bailey & Dave at the Zoo is included.
-- The Beach cover is now stored locally too.
-- The proper Wonky Pencil logo is assets/wonky-pencil-logo.png.
-- All core images referenced by the site have been checked as present in this package.
+- Keep the existing CNAME file in GitHub.
+- Do not delete the CNAME file.
+- Replace index.html when GitHub asks.
+- Upload all JPG/PNG files at the same time as the HTML/CSS/JS files.
+- Old unused files can remain until the new site has been checked live.
 
-Professional contact used:
-contact@wonkypencil.co.uk
-
-Dedicated project links:
-https://baileyanddave.co.uk/
-https://www.alderwickphenomenon.co.uk/
-https://hgvdrivingexplained.co.uk/
+This version was made specifically for easier GitHub uploading from mobile.
