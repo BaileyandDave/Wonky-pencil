@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wonkypencil.co.uk/sitemap.xml
