@@ -1,0 +1,22 @@
+WONKY PENCIL WEBSITE - UPDATE ONLY
+
+Upload these five files directly to the ROOT of the existing GitHub repository:
+
+index.html
+books.html
+alderwick.html
+hgv.html
+hgv-book-cover.jpg
+
+When GitHub asks, replace/overwrite the existing HTML files.
+
+This update:
+- removes Alderwick concept artwork from the site
+- removes the four character roles from the Alderwick page
+- makes Alderwick wording more mysterious
+- replaces the HGV guide thumbnail with the actual HGV Driving Explained front cover
+
+OPTIONAL BUT RECOMMENDED:
+Delete the old file "alderwick-concept.png" from GitHub afterwards so the unrevealed concept artwork is no longer sitting publicly in the repository.
+
+Leave CNAME untouched.
